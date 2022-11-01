@@ -55,5 +55,6 @@ do{
     printf("soma das idades:%d\n", soma);
     printf("produto das idades:%d\n", produto);
 
+    system ("PAUSE");
     return 0;
 }
